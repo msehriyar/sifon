@@ -1,0 +1,1 @@
+clang ../sifon/src/main.cpp -I ../sifon/include/ -std=c++20 -lstdc++ -g -Werror -Wall -Wextra -Wconversion
